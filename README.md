@@ -1,2 +1,2 @@
 # mvc-template
-This is a MVC Project to begin the development software.
+This is an MVC project to start developing a software.
